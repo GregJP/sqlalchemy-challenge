@@ -1,4 +1,4 @@
 # sqlalchemy-challenge
 ### This is an assignment through the UNC Data Science Boot Camp. It's purpose was to test the methods that were taught in the SQL Alchemy portion of the boot camp. The first part of the assignment consisted of creating a line graph of precipitation in the last year of the data by using queries to filter data that was already provided. The next part consisted of using additional queries to find the most active station in the data. Using the data from all of the temperatures in the past year from the most active station, a histogram was created displaying those temperatures. For the last part, a Flask API was created using similar queries in the previous parts, assigning them to different routes within the API.
 
-### Note: The routes that require entering start and end dates in the Flask API currently result in errors and will fixed at a later date.
+### Note: The routes that require entering start and end dates in the Flask API currently result in errors and will be fixed at a later date.
